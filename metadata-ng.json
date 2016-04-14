@@ -1,0 +1,62 @@
+{
+	"name": "Python",
+	"services": [],
+	"type": "web",
+	"version": "1.5.1",
+	"description": "Develop, deploy, and scale Python web apps with ease.",
+	"smallIcon": "i_python_24.png",
+	"icon": "i_python_32.png",
+	"largeIcon": "i_python_50.png",
+	"featuredIcon": "i_python_64.png",
+	"system_tags": ["ibm_community"],
+	"categories": ["runtime"],
+	"metadata": {
+		"termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
+	},
+	"source": {
+		"scmType": "git",
+		"url": ".git",
+		"appPath": "app"
+	},
+	"docURL": "/#runtimes/python/index.html",
+	"extra": {
+		"i18n": {
+			"de": {
+				"name": "Python",
+				"description": "Python-Web-Apps unkompliziert entwickeln, bereitstellen und skalieren."
+			},
+			"es": {
+				"name": "Python",
+				"description": "Desarrolle, despliegue y escale fácilmente apps web Python. "
+			},
+			"fr": {
+				"name": "Python",
+				"description": "Développez, déployez et mettez à l'échelle des applications Pyhton facilement."
+			},
+			"it": {
+				"name": "Python",
+				"description": "Sviluppa, distribuisci e ridimensiona con facilità applicazioni Web Python."
+			},
+			"ja": {
+				"name": "Python",
+				"description": "Python Web アプリの開発、デプロイ、および拡張を容易に行います。"
+			},
+			"ko": {
+				"name": "Python",
+				"description": "Python 웹 앱을 쉽게 개발, 배치, 스케일링합니다. "
+			},
+			"pt-BR": {
+				"name": "Python",
+				"description": "Desenvolva, implemente e escale os apps da web Python com facilidade."
+			},
+			"zh-Hans": {
+				"name": "Python",
+				"description": "轻松开发、部署和扩展 Python Web 应用程序。"
+			},
+			"zh-Hant": {
+				"name": "Python",
+				"description": "輕鬆地開發、部署及擴充 Python Web 應用程式。"
+			}
+		}
+	}
+}
