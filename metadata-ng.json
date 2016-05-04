@@ -2,7 +2,7 @@
 	"name": "Python",
 	"services": [],
 	"type": "web",
-	"version": "1.5.1",
+	"version": "1.5.2",
 	"description": "Develop, deploy, and scale Python web apps with ease.",
 	"smallIcon": "i_python_24.png",
 	"icon": "i_python_32.png",
