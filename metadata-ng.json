@@ -10,6 +10,7 @@
 	"featuredIcon": "i_python_64.png",
 	"system_tags": ["ibm_community"],
 	"categories": ["runtime"],
+	"defaultMemory": 128,
 	"metadata": {
 		"termsUrl": "https://www.ibm.com/software/sla/sladb.nsf/sla/bm-6626-01"
 	},
