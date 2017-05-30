@@ -2,8 +2,6 @@
 
 This application demonstrates a simple, reusable Python web application.
 
-[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/IBM-Bluemix/python-helloworld)
-
 ## Run the app locally
 
 1. [Install Python][]
